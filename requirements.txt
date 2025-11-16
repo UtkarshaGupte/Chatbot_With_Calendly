@@ -1,0 +1,8 @@
+streamlit
+requests
+langchain_core
+python-dotenv
+langchain_openai
+termcolor
+fastapi
+uvicorn
